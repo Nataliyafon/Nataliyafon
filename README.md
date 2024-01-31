@@ -1,9 +1,11 @@
-### Hi there, I'm Natalie 👋
 <div id="badges">
    <a href="https://t.me/Nataliyaf0n">
     <img src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+---
+
+### Hi there, I'm Natalie 👋
 - 🌱 I’m currently learning Python, SQL
 - 👩‍💻 I’m currently interesting in data analysis, machine learning
 - 👩‍🎓 I received 3 professional retraining diplomas in a year - Frontend developer, Data analyst, Data scientist
