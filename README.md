@@ -11,6 +11,8 @@
 - 👩‍🎓 I received 3 professional retraining diplomas in a year - Frontend developer, Data analyst, Data scientist
 - 📧 nataliya.afonina@gmail.com
 
+### My resume:
+[resume](https://hh.ru/applicant/resumes/view?resume=e73e9b7bff0cc64d1d0039ed1f4f75484d7a6d)
 <br />
 
 ### Languages:
